@@ -4,8 +4,7 @@ metadata:
   name: backstage-test1
   description: An example of a Backstage application.
   annotations:
-    jira.com/project-key: backstage-test1/KAN
-    # component: backstage-test1/KAN  # The key of the Jira project to track for this entity
+    jira.com/project-key: "KAN"  # The key of the Jira project to track for this entity
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
@@ -13,6 +12,4 @@ metadata:
 spec:
   type: website
   owner: john@example.com
-  group: default/john@example.com
   lifecycle: experimental
-
