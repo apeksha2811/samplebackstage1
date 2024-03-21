@@ -6,7 +6,7 @@ kind: Component
 metadata: 
   name: backstage-test1
   annotations:
-    jira.com/project-key: '22310'
+    jira.com/project-key: "22310"
     # jira.com/filter-ids: 1,2
  
   # Example for optional annotations
