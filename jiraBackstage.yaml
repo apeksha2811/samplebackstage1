@@ -7,7 +7,7 @@ metadata:
   name: backstage-test1
   annotations:
     jira.com/project-key: KAN123
-    jira.com/filter-ids: 1,2
+    # jira.com/filter-ids: 1,2
  
   # Example for optional annotations
   # annotations:
