@@ -4,7 +4,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 
 metadata: 
-  name: jira
+  name: backstage-test1
   annotations:
     jira.com/project-key: KAN123
     jira.com/filter-ids: 1,2
