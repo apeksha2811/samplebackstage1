@@ -4,7 +4,7 @@ metadata:
   name: backstage-test1
   description: An example of a Backstage application.
   annotations:
-    jira.com/project-key: KAN  # The key of the Jira project to track for this entity
+    jira.com/project-key: KAN123  # The key of the Jira project to track for this entity
 spec:
   type: website
   owner: john@example.com
