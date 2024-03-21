@@ -1,14 +1,8 @@
-
-
 apiVersion: backstage.io/v1alpha1
 kind: Component
-
-metadata: 
-  name: backstage-test1
+metadata:
   annotations:
-    jira.com/project-key: "22310"
-    # jira.com/filter-ids: 1,2
- 
+    jira/project-key: "22310"
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
